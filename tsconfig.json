@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "moduleResolution": "node",
+      "target": "es6",
+      "module": "commonjs",
+      "sourceMap": true,
+      "declaration": true,
+      "skipLibCheck": true
+    },
+    "include": [
+        "lib/**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+
+}
