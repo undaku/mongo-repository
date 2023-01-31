@@ -1,2 +1,2 @@
-# mongo-simple-orm
-A Simplified ORM for Mongo DB
+# mongo-repository
+A Repository Pattern Implementation for Mongo DB
